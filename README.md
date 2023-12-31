@@ -7,4 +7,4 @@ Implemented AWS S3 Bucket for storing information of users
 
 Acts as a digital resume.
 
-A great project for learning this tech.
+A great project for learning this technology.
