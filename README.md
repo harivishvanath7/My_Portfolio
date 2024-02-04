@@ -7,4 +7,4 @@ Implemented AWS S3 Storage Bucket for storing information of users
 
 Acts as a digital resume for myself to showcase my skills and projects.
 
-A great project for learning this technology.
+A Great project for learning this technology.
